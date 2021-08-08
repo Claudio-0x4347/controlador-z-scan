@@ -9,7 +9,7 @@ A técnica de Varredura-Z (Z-Scan) é uma poderosa técnica de óptica não-line
 ## Requisitos para operação
 Para execução do projeto é necessário:
 <ul>
-  <li><a href="">Kit de desenvolvimento Labview</a></li>
+  <li><a href="https://www.ni.com/pt-br/shop/labview.html">Kit de desenvolvimento Labview</a></li>
   <li><a href="http://sine.ni.com/apps/utf8/niid_web_display.download_page?p_id_guid=6E23DB10D9FC2B05E04400144FB7D21D">Driver DPO MSO 2000 4000 series</a></li>
   <li>Pacote Labview Interface for Arduino</li>
   <li><a href="https://store.arduino.cc/usa/arduino-nano">Arduino Nano</a></li>
